@@ -54,7 +54,7 @@ If you want to run the app in a Docker container:
 
 **Dockerfile:** Instructions to build the Docker image.
 
-**Usage Instructions**
+## Usage Instructions
 
 Enter the title of a movie in the input box provided by the Streamlit app.
 
